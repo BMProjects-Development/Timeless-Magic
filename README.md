@@ -10,7 +10,7 @@
 </p>
 
 # Timeless Magic
-<b>Timeless Magic</b> is an expert magic-focused modpack developed by BMProjects, where ancient sorcery breaks the boundaries of time itself. In this world, you will evolve from a novice apprentice into an absolute master of the arcane, learning to control the very fabric of reality. Your path is built upon mastering diverse magical systems, unearthing forgotten relics, and performing complex rituals. <b>Timeless Magic</b> features a highly specialized and deeply balanced progression system driven by hundreds of custom quests, mystical items, and heavily modified recipes. Step into the circle—your eternal journey into the arcane begins now! <br/>
+<b>Timeless Magic</b> is an expert magic-focused modpack developed by BMProjects, where ancient sorcery breaks the boundaries of time itself. In this world, you will evolve from a novice apprentice into an absolute master of the arcane, learning to control the very fabric of reality. Your path is built upon mastering diverse magical systems, unearthing forgotten relics, and performing complex rituals. <b>Timeless Magic</b> features a highly specialized and deeply balanced progression system driven by hundreds of custom quests, mystical items, and heavily modified recipes. Step into the circle-your eternal journey into the arcane begins now! <br/>
 
 # Features
 ### <b>Progression and Balance</b>
