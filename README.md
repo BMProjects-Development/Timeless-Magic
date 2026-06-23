@@ -14,7 +14,7 @@
 
 # Features
 ### <b>Progression and Balance</b>
-- <b>Arcane Progression Tiers</b>: Experience a challenging and deeply rewarding development curve. To advance, you must master hidden magical arts—ranging from alchemy and blood magic to astrology and time manipulation.
+- <b>Arcane Progression Tiers</b>: Experience a challenging and deeply rewarding development curve. To advance, you must master hidden magical arts-ranging from alchemy and blood magic to astrology and time manipulation.
 
 - <b>Interconnected Sorcery</b>: Hundreds of recipes have been completely overhauled and balanced using custom scripts, ensuring that resources and items from different magic mods are tightly woven into a single, logical progression chain.
 
